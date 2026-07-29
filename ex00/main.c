@@ -6,7 +6,7 @@
 /*   By: vquetier <vquetier@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/29 19:46:21 by jbenhass          #+#    #+#             */
-/*   Updated: 2026/07/29 20:20:13 by vquetier         ###   ########.fr       */
+/*   Updated: 2026/07/29 20:20:26 by vquetier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,6 @@ int	raise_error()
 int	main(int ac, char **av)
 {
 	t_solution	sol;
-	
 	
 	return 0;
 }
