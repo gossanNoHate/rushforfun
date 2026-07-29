@@ -6,7 +6,7 @@
 /*   By: vquetier <vquetier@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/29 19:46:21 by jbenhass          #+#    #+#             */
-/*   Updated: 2026/07/29 20:24:26 by vquetier         ###   ########.fr       */
+/*   Updated: 2026/07/29 20:24:54 by vquetier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,7 +29,7 @@ void	fill_with_zero(t_solution *sol)
 	{
 		j = 0;
 		while (j < sol->parsed.size)
-			sol->solution[i][j++] = 0
+			sol->solution[i][j++] = 0;
 		i++;
 	}
 }
